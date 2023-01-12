@@ -2,6 +2,8 @@
 
 This is the first-year engineering project in the Electrical and Computer Engineering Department of Nazarbayev University. 
 
+It was done jointly with @Sanzhar7001 (https://github.com/Sanzhar7001)
+
 The project comprises the plastic jar as the body of a bioreactor, 3D-printed parts for the stirring mechanism and some electronics components and sensors attached to the Arduino board. 
 
 The project aims to create an auspicious environment for yeast growth.
